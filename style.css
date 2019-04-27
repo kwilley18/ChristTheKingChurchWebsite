@@ -1,0 +1,78 @@
+body {
+    background-color: mediumpurple; 
+	font-family: 'Roboto', cursive; 
+	
+}
+img{
+	width: 200px; 
+	height: 200px; 
+	margin-left: auto; 
+	margin-right: auto; 
+	display: block; 
+}
+img.pastor{
+		width: 500px; 
+	height: 500px; 
+}
+div.pastor{
+	background-color: lightgray; 
+}
+p{
+	font-size: 20px; 
+	font-family: 'Didact Gothic', cursive; 
+	color: black; 
+	text-align: left; 
+	padding-left: 20px; 
+
+}
+a{
+    font-family: 'Cinzel', cursive; 
+	display: inline-block;
+	padding: 50px; 
+	padding-top: 20px; 
+	font-size: 20px; 
+	padding-bottom: 0; 
+	text-decoration: none; 
+	background-color: mediumpurple; 
+	text-decoration-color: mediumpurple; 
+}
+sections{
+	font-family: 'Cinzel', cursive; 
+	display: inline-block;
+	padding: 50px; 
+	padding-top: 20px; 
+	font-size: 20px; 
+	padding-bottom: 0; 
+	text-decoration: none; 
+	background-color: mediumpurple; 
+	text-decoration-color: mediumpurple; 
+}
+#events{
+		font-family: 'Cinzel', cursive; 
+
+}
+#pastor{
+	    font-family: 'Cinzel', cursive; 
+		font-size: 30px; 
+
+
+}
+#contact{
+	    font-family: 'Cinzel', cursive; 
+			font-size: 30px; 
+
+}#ministries{
+	    font-family: 'Cinzel', cursive; 
+			font-size: 30px; 
+
+}
+#give{
+	    font-family: 'Cinzel', cursive; 
+			font-size: 30px; 
+
+}
+#weekly{
+	    font-family: 'Cinzel', cursive; 
+			font-size: 30px; 
+
+}
